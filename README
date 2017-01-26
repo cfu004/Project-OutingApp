@@ -1,0 +1,8 @@
+# Group Project - OutingApp
+
+- Suggest options for dining outing.
+- Serve as an event planner for friends and families.
+
+
+This restaurant outing application is designed for groups of classmates/colleagues to hangout, grab food at desired restaurant and at specified time. The application generates a Google Map of desired area through Google API using Ajax call.
+The services include 1.providing restaurant location, operating hour(using Google Places Library,Google Geocoding API); 2. providing estimated cost on transportation(Uber API). All searched results are stored into firebase data.
